@@ -1,0 +1,53 @@
+{
+	"profile":{
+		"img":"download.jpg",
+		 "name":"AMRUTHA",
+		 "roll":"16NN1A1222",
+		 "institute":"vignan's nirula",
+		 "place":"guntur"
+	},
+	 "career":{"info":"To use my skills in the best possible way for achieving the company’s goals"
+   },
+   "educational":[
+   	{
+   		"degree":"b.tech",
+   		 "institution":"vignan's nirula institute of technology",
+   		 "yearofpassing":"2020"
+   	},
+   	{
+   		"degree":"inter",
+   		 "institution":"xperts academy",
+   		 "yearofpassing":"2016"
+   	},
+   	{
+   		"degree":"s.s.c",
+   		 "institution":"ushodaya english medium school",
+   		 "yearofpassing":"2014"
+   	}
+   ],
+     "languages":[
+     	{
+     		"languages":"telugu"
+     	},
+     	{
+     		"languages":"english"
+     	},
+     	{
+     		"languages":"hindhi"
+     	}
+     ],
+     "skills":[
+        {
+        	"title":"platforms",
+        	"content":"windows,linux"
+        },
+        {
+        	"title":"programming languagues",
+        	"content":"c,c++,java"
+        },
+        {
+        	"title":"database",
+        	"content":"mysql"
+        }
+     ]
+    }
